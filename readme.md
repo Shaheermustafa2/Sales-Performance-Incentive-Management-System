@@ -30,3 +30,6 @@
 * ##### INDEX-MATCH
 * ##### Conditional Formatting
 
+#### **Dashboard Preview**
+
+![Page 1](https://github.com/Shaheermustafa2/customer-segmentation-rfm-analysis/blob/main/screenshots/Screenshot%202026-02-11%20134216.png)
