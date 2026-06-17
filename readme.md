@@ -32,4 +32,4 @@
 
 #### **Dashboard Preview**
 
-![Page 1](https://github.com/Shaheermustafa2/customer-segmentation-rfm-analysis/blob/main/screenshots/Screenshot%202026-02-11%20134216.png)
+![Page 1](https://github.com/Shaheermustafa2/Sales-Performance-Incentive-Management-System/blob/main/Screenshot/Screenshot%202026-06-17%20185421.png)
