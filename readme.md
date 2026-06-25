@@ -32,4 +32,4 @@
 
 #### **Dashboard Preview**
 
-![Page 1](https://github.com/Shaheermustafa2/Sales-Performance-Incentive-Management-System/blob/main/Screenshot/Screenshot%202026-06-17%20185421.png)
+![Page 1](https://github.com/Shaheermustafa2/Sales-Performance-Incentive-Management-System/blob/main/Screenshot/Screenshot%202026-06-25%20225701.png)
